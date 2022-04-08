@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\bin\Debug\netcoreapp3.1\Switch.exe
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\bin\Debug\netcoreapp3.1\Switch.deps.json
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\bin\Debug\netcoreapp3.1\Switch.dll
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\bin\Debug\netcoreapp3.1\Switch.pdb
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\obj\Debug\netcoreapp3.1\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.CopyComplete
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\obj\Debug\netcoreapp3.1\Switch.dll
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\obj\Debug\netcoreapp3.1\Switch.pdb
+C:\Users\User\Desktop\8Aprel\8Aprel\Switch\obj\Debug\netcoreapp3.1\Switch.genruntimeconfig.cache
