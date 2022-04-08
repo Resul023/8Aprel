@@ -83,7 +83,7 @@ namespace Switch
 
                         foreach (var item in newStudent)
                         {
-                            item.AddExam(examName, studentSetNo);
+                            item.AddExam(examName, examPoint);
                         }
                         break;
                     case 3:
