@@ -8,7 +8,7 @@ namespace _8Aprel
         static void Main(string[] args)
         {
             
-            
+            List<Student> newStudent = new List<Student>();
             bool check = true;
             Console.WriteLine("1-Add Student");
             Console.WriteLine("2-Add Student's exam");
@@ -49,9 +49,9 @@ namespace _8Aprel
                     } while (String.IsNullOrWhiteSpace(studentSetFullName));
                     Student student = new Student();
                     student.FullName = studentSetFullName;
-                    
-                    newStudent.Add(student);
-
+                    Student newStudents = new Student();
+                    newStudents.FullName = studentSetFullName;
+                   newStudent.Add(newStudents);
                 }
 
                else if (answer == 2)
